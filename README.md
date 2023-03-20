@@ -67,7 +67,7 @@ The main features of LPC2148 include the following.
 
 9. use project and build all 
 ![image](https://user-images.githubusercontent.com/36288975/226189554-3f7101ac-3f41-48fc-abc7-480bd6218dec.png)
-10. once the project is bulild 
+10. once the project is build 
 ![image](https://user-images.githubusercontent.com/36288975/226189577-c61cc1eb-3990-4968-8aa6-aefffc766b70.png)
 
 11. click on debug option 
@@ -191,13 +191,12 @@ void assert_failed(uint8_t *file, uint32_t line)
 ```
 
 ## Output  :
- 
- ![WhatsApp Image 2023-03-20 at 7 21 23 PM (1)](https://user-images.githubusercontent.com/93427254/226360747-62e7f66b-b016-42e2-8ed2-05fa58f6bdc9.jpeg)
- 
-![WhatsApp Image 2023-03-20 at 7 21 23 PM](https://user-images.githubusercontent.com/93427254/226360769-e3adbc1a-79cd-4902-815d-c81c23bb0dff.jpeg)
 
- 
- 
+
+ ![pmc1](https://user-images.githubusercontent.com/93427254/226363701-38333d8e-6579-4b84-ba3d-0ec7f07e6620.jpeg)
+
+ ![pmc2](https://user-images.githubusercontent.com/93427254/226363757-e37a0b5d-d7c6-4d58-a260-d97a36e5575a.jpeg)
+
 ## Result :
 Interfacing a digital output with ARM microcontroller is executed and the results are verified.
 
